@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="user_questionnaire">Заполните анкету</string>
+    <string name="avatar">Аватар пользователя</string>
+    <string name="label_name">1. Ваше имя</string>
+    <string name="placeholder_name">Введите имя</string>
+    <string name="label_age">2. Сколько вам лет?</string>
+    <string name="label_gender">3. Выберите пол</string>
+    <string name="gender_male">Мужской</string>
+    <string name="gender_female">Женский</string>
+    <string name="news">Хочу получать новости</string>
+    <string name="button_submit">Отправить</string>
+    <string name="summary_name">Имя: %s</string>
+    <string name="summary_age">Возраст: %d</string>
+    <string name="summary_gender">Пол: %s</string>
+    <string name="summary_sub">Подписка: %s</string>
+    <string name="sub_yes">да</string>
+    <string name="sub_no">нет</string>
+</resources>
